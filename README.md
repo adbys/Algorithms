@@ -3,3 +3,4 @@
 ## Divide and conquer
 
  - Merge Sort (Sorting)
+ - Quick Sort (Sorting)
