@@ -2,5 +2,6 @@
 
 ## Divide and conquer
 
- - Merge Sort (Sorting)
- - Quick Sort (Sorting)
+ - Merge Sort
+ - Quick Sort
+ - Maximum-subarray
